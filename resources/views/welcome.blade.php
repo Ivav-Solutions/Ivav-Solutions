@@ -144,8 +144,8 @@
                 <div class="single-testimonials-item">
                     <div class="client-info">
                         <!-- <img src="assets/img/author-image/6.jpg" alt="image"> -->
-                        <h3>Michel John</h3>
-                        <span>CEO at Envato</span>
+                        <h3>Michael John</h3>
+                        <span>CEO at Slot</span>
                     </div>
 
                     <div class="testimonials-desc">
