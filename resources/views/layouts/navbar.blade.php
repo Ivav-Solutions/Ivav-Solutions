@@ -89,7 +89,7 @@
             <div class="container">
                 <div class="option-inner">
                     <div class="others-options">
-                        <a href="" class="default-btn" style="padding: 10px !important;">
+                        <a href="/book_appointment" class="default-btn" style="padding: 10px !important;">
                             Book Appointment
                         </a>
                         <a href="https://wa.me/{{config('app.phone_1')}}" target="_blank" class="default-btn" style="color: #fff !important; border-radius: 50% !important; padding: 8px !important;">
