@@ -51,18 +51,21 @@
 
                     <ul class="services-list">
                         <li><a href="/about-us">About Us</a></li>
-                        <li><a href="/services">Services</a></li>
+                        <li><a href="/faq">FAQ's</a></li>
+                        <li><a href="/contact">Contact Us</a></li>
                     </ul>
                 </div>
             </div>
 
             <div class="col-lg-2 col-md-6 col-sm-6">
                 <div class="single-footer-widget">
-                    <h3>Support</h3>
+                    <h3>Brands</h3>
 
                     <ul class="support-list">
-                        <li><a href="/faq">FAQ's</a></li>
-                        <li><a href="/contact">Contact Us</a></li>
+                        <li><a href="">IvavTech</a></li>
+                        <li><a href="">IvavTravel</a></li>
+                        <li><a href="">IvavTalent</a></li>
+                        <li><a href="https://www.faofoundation.com/">FAO Foundation</a></li>
                     </ul>
                 </div>
             </div>
