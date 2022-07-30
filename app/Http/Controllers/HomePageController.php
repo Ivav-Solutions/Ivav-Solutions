@@ -17,22 +17,6 @@ class HomePageController extends Controller
         return view('about');
     }
     
-    public function web_application_development() {
-        return view('web_application_development');
-    }
-
-    public function travel_consultancy() {
-        return view('travel_consultancy');
-    }
-    
-    public function faq() {
-        return view('faq');
-    }
-
-    public function contact() {
-        return view('contact');
-    }  
-
     public function contactConfirm(Request $request) {
         //Validate Request
         $this->validate($request, [
@@ -56,10 +40,5 @@ class HomePageController extends Controller
 
         return back()->with('success_report', 'Form Submitted Successfully, We will get in touch with you shortly!');
         // return response()->json(['success'=>'Form is successfully submitted!']);
-    }
-    
-    public function book_appointment()
-    {
-        return view('book_appointment');
     }
 }

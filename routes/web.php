@@ -15,6 +15,4 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', [App\Http\Controllers\HomePageController::class, 'index']);
 Route::get('/about-us', [App\Http\Controllers\HomePageController::class, 'about_us']);
-Route::get('/faq', [App\Http\Controllers\HomePageController::class, 'faq']);
-Route::get('/contact', [App\Http\Controllers\HomePageController::class, 'contact']);
 Route::post('/contact-us', [App\Http\Controllers\HomePageController::class, 'contactConfirm']);
