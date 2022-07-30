@@ -55,29 +55,29 @@
             <div class="row">
                 <div class="col-lg-3 col-6 col-sm-3 col-md-3">
                     <div class="single-funfacts">
-                        <h3><span class="odometer" data-count="180">00</span><span class="sign-icon">k</span></h3>
+                        <h3><span class="odometer" data-count="500">00</span><span class="sign-icon"><sup>+</sup></span></h3>
+                        <p>Hours Worked</p>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-6 col-sm-3 col-md-3">
+                    <div class="single-funfacts">
+                        <h3><span class="odometer" data-count="1000">00</span><span class="sign-icon"><sup>+</sup></span></h3>
                         <p>Downloaded</p>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-6 col-sm-3 col-md-3">
                     <div class="single-funfacts">
-                        <h3><span class="odometer" data-count="20">00</span><span class="sign-icon">k</span></h3>
+                        <h3><span class="odometer" data-count="200">00</span><span class="sign-icon"><sup>+</sup></span></h3>
                         <p>Feedback</p>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-6 col-sm-3 col-md-3">
                     <div class="single-funfacts">
-                        <h3><span class="odometer" data-count="500">00</span><span class="sign-icon">+</span></h3>
-                        <p>Workers</p>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-6 col-sm-3 col-md-3">
-                    <div class="single-funfacts">
-                        <h3><span class="odometer" data-count="70">00</span><span class="sign-icon">+</span></h3>
-                        <p>Contributors</p>
+                        <h3><span class="odometer" data-count="700">00</span><span class="sign-icon"><sup>+</sup></span></h3>
+                        <p>Subscribers</p>
                     </div>
                 </div>
             </div>
