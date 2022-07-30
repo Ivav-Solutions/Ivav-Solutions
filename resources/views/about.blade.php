@@ -8,6 +8,10 @@
 @includeIf('layouts.breadcrumb', ['title' => 'About', 'subtitle' => "The Ivav Solutions Story"])
 @endsection
 
+@section('footer')
+@includeIf('layouts.footer')
+@endsection
+
 @section('page-content')
 <!-- Start About Area -->
 <section class="about-area ptb-100">
@@ -78,153 +82,173 @@
                 </div>
             </div>
         </div>
-
-        <div class="contact-cta-box">
-            <h3>Have any question about us?</h3>
-            <p>Don't hesitate to contact us.</p>
-
-            <a href="/contact" class="default-btn"><i class="bx bxs-edit-alt"></i>Contact Us<span></span></a>
-        </div>
     </div>
 
     <div class="shape-map1"><img src="assets/img/map1.png" alt="image"></div>
 </section>
 <!-- End Video Presentation Area -->
 
-<!-- Start Team Area -->
-<section class="team-area pb-70">
+<!-- Start Features Card -->
+<div class="features-card-section pt-100 pb-70 bg-f8fbfa">
     <div class="container">
         <div class="section-title">
-            <h2>Meet Our experts always ready to help you</h2>
+            <h2>Our Brands</h2>
         </div>
-
         <div class="row">
-            <div class="col-lg-3 col-md-6 col-sm-6">
-                <div class="single-team-box">
-                    <div class="image">
-                        <img src="https://via.placeholder.com/580x580">
-
-                        <ul class="social">
-                            <li><a href="#" target="_blank"><i class="bx bxl-facebook"></i></a></li>
-                            <li><a href="#" target="_blank"><i class="bx bxl-twitter"></i></a></li>
-                            <li><a href="#" target="_blank"><i class="bx bxl-linkedin"></i></a></li>
-                            <li><a href="#" target="_blank"><i class="bx bxl-instagram"></i></a></li>
-                        </ul>
-                    </div>
-
-                    <div class="content">
-                        <h3>Emmanuuel Nwachukwu</h3>
-                        <span>CEO & Founder</span>
-                    </div>
+            <div class="col-lg-3 col-sm-6 wow animate__animated animate__fadeInUp" data-wow-delay=".2s">
+                <div class="single-features-card tx-center">
+                    <i class='bx bx-cable-car'></i>
+                    <h3>
+                        <a href="#">IvavTravel</a>
+                    </h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor dolore magna aliqua.</p>
                 </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 col-sm-6">
-                <div class="single-team-box">
-                    <div class="image">
-                        <img src="https://via.placeholder.com/580x580">
-
-                        <ul class="social">
-                            <li><a href="#" target="_blank"><i class="bx bxl-facebook"></i></a></li>
-                            <li><a href="#" target="_blank"><i class="bx bxl-twitter"></i></a></li>
-                            <li><a href="#" target="_blank"><i class="bx bxl-linkedin"></i></a></li>
-                            <li><a href="#" target="_blank"><i class="bx bxl-instagram"></i></a></li>
-                        </ul>
-                    </div>
-
-                    <div class="content">
-                        <h3>James Oni</h3>
-                        <span>UX/UI Designer</span>
-                    </div>
+            <div class="col-lg-3 col-sm-6 wow animate__animated animate__fadeInUp" data-wow-delay=".3s">
+                <div class="single-features-card tx-center">
+                    <i class='bx bx-laptop'></i>
+                    <h3>
+                        <a href="#">IvavTech</a>
+                    </h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor dolore magna aliqua.</p>
                 </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 col-sm-6">
-                <div class="single-team-box">
-                    <div class="image">
-                        <img src="https://via.placeholder.com/580x580">
-
-                        <ul class="social">
-                            <li><a href="#" target="_blank"><i class="bx bxl-facebook"></i></a></li>
-                            <li><a href="#" target="_blank"><i class="bx bxl-twitter"></i></a></li>
-                            <li><a href="#" target="_blank"><i class="bx bxl-linkedin"></i></a></li>
-                            <li><a href="#" target="_blank"><i class="bx bxl-instagram"></i></a></li>
-                        </ul>
-                    </div>
-
-                    <div class="content">
-                        <h3>Promise Ezema</h3>
-                        <span>Web Developer</span>
-                    </div>
+            <div class="col-lg-3 col-sm-6 wow animate__animated animate__fadeInUp" data-wow-delay=".4s">
+                <div class="single-features-card tx-center">
+                    <i class='bx bxs-badge-check'></i>
+                    <h3>
+                        <a href="#">IvavTalent</a>
+                    </h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor dolore magna aliqua.</p>
                 </div>
             </div>
 
-            <div class="col-lg-3 col-md-6 col-sm-6">
-                <div class="single-team-box">
-                    <div class="image">
-                        <img src="https://via.placeholder.com/580x580">
-
-                        <ul class="social">
-                            <li><a href="#" target="_blank"><i class="bx bxl-facebook"></i></a></li>
-                            <li><a href="#" target="_blank"><i class="bx bxl-twitter"></i></a></li>
-                            <li><a href="#" target="_blank"><i class="bx bxl-linkedin"></i></a></li>
-                            <li><a href="#" target="_blank"><i class="bx bxl-instagram"></i></a></li>
-                        </ul>
-                    </div>
-
-                    <div class="content">
-                        <h3>Michael Alabi</h3>
-                        <span>Support</span>
-                    </div>
+            <div class="col-lg-3 col-sm-6 wow animate__animated animate__fadeInUp" data-wow-delay=".5s">
+                <div class="single-features-card tx-center">
+                    <i class='bx bxs-megaphone'></i>
+                    <h3>
+                        <a href="https://www.faofoundation.com/">FAO Foundation</a>
+                    </h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor dolore magna aliqua.</p>
                 </div>
             </div>
         </div>
     </div>
-</section>
-<!-- End Team Area -->
+</div>
+<!-- End Features Card -->
 
-<!-- Start Feedback Area -->
-<section class="feedback-area pt-100 pb-70">
+<section class="contact-box ptb-100">
     <div class="container">
         <div class="section-title">
-            <h2>Whats Our Clients Said About <span>{{config('app.name')}}</span></h2>
+            <h2>Contact Us</h2>
         </div>
-
-        <div class="feedback-slides owl-carousel owl-theme">
-            <div class="single-feedback-item">
-                <div class="feedback-desc">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse.</p>
-                    <div class="client-info">
-                        <h3>Allwell Anibi</h3>
-                        <span>CEO at Envato</span>
+        <div class="row">
+            <div class="col-lg-4 col-md-6">
+                <div class="single-contact-box">
+                    <i class="bx bxs-location-plus"></i>
+                    <div class="content-title">
+                        <h3>Address</h3>
+                        <p>{{config('app.address_1')}}</p>
+                        <p>{{config('app.address_2')}}</p>
                     </div>
                 </div>
             </div>
 
-            <div class="single-feedback-item">
-                <div class="feedback-desc">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse.</p>
-
-                    <div class="client-info">
-                        <h3>Victor Ebube</h3>
-                        <span>CEO at 4Green</span>
+            <div class="col-lg-4 col-md-6">
+                <div class="single-contact-box">
+                    <i class="bx bx-mail-send"></i>
+                    <div class="content-title">
+                        <h3>Email</h3>
+                        <a href="mailto:{{config('app.email')}}">{{config('app.email')}}</a>
                     </div>
                 </div>
             </div>
 
-            <div class="single-feedback-item">
-
-                <div class="feedback-desc">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse.</p>
-
-                    <div class="client-info">
-                        <h3>Olu Yekeen</h3>
-                        <span>CEO at Fify</span>
+            <div class="col-lg-4 col-md-6 offset-md-3 offset-lg-0">
+                <div class="single-contact-box">
+                    <i class="bx bxs-phone"></i>
+                    <div class="content-title">
+                        <h3>Phone</h3>
+                        <a href="tel:{{config('app.phone_1')}}">{{config('app.phone_1')}}</a>
+                        <a href="tel:{{config('app.phone_2')}}">{{config('app.phone_2')}}</a>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 </section>
-<!-- Start Feedback Area -->
+
+<!-- Start Contact Area -->
+<section class="contact-area pb-70">
+    <div class="container">
+        <div class="contact-inner">
+            <div class="row">
+                <div class="col-lg-6 col-md-12">
+                    <div class="contact-features-list">
+                        <h3>Locate Us Today</h3>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31716.31274344193!2d3.376537635960926!3d6.453161595137153!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103bf4cc8be5bb47%3A0xa100e775f73a58!2sLagos%20Island%2C%20Lagos!5e0!3m2!1sen!2sng!4v1658585494583!5m2!1sen!2sng" style="border:0; width: 100%; height: 460px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
+                </div>
+
+                <div class="col-lg-6 col-md-12">
+                    <div class="contact-form">
+                        <h3>Have Any Questions About Us?</h3>
+                        @includeIf('layouts.error_template')
+                        <!-- <div id="msgSubmit" class="h3 text-center hidden"></div> -->
+                        <!-- <form id="contactForm" method="POST"> -->
+                        <form action="/contact-us" method="post">
+                            @csrf
+                            <div class="row">
+                                <div class="col-lg-6 col-md-6">
+                                    <div class="form-group">
+                                        <input type="text" name="name" id="name" class="form-control" required data-error="Please enter your name" placeholder="Your Name">
+                                        <div class="help-block with-errors"></div>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-6 col-md-6">
+                                    <div class="form-group">
+                                        <input type="email" name="email" id="email" class="form-control" required data-error="Please enter your email" placeholder="Your Email">
+                                        <div class="help-block with-errors"></div>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-6 col-md-6">
+                                    <div class="form-group">
+                                        <input type="text" name="phone" id="phone" required data-error="Please enter your number" class="form-control" placeholder="Your Phone">
+                                        <div class="help-block with-errors"></div>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-6 col-md-6">
+                                    <div class="form-group">
+                                        <input type="text" name="subject" id="subject" class="form-control" required data-error="Please enter your subject" placeholder="Your Subject">
+                                        <div class="help-block with-errors"></div>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-12 col-md-12">
+                                    <div class="form-group">
+                                        <textarea name="message" class="form-control" id="message" cols="30" rows="6" required data-error="Write your message" placeholder="Your Message"></textarea>
+                                        <div class="help-block with-errors"></div>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-12 col-md-12">
+                                    <button type="submit" class="default-btn"><i class='bx bxs-paper-plane'></i>Send Message<span></span></button>
+                                    <div id="msgSubmit" class="h3 text-center hidden"></div>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Contact Area -->
+
 @endsection

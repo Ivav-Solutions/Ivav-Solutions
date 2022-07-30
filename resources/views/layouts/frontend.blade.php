@@ -58,7 +58,7 @@
     <!-- End Page-Content -->
 
     <!-- Start Footer Area -->
-    @includeIf('layouts.footer')
+    @yield('footer')
     <!-- End Footer Area -->
 
     <!--Start of Tawk.to Script-->

@@ -19,12 +19,6 @@
                     </div>
                 </div>
             </form>
-
-            <!-- <div class="shape14"><img src="assets/img/shape/13.png" alt="image"></div>
-            <div class="shape15"><img src="assets/img/shape/14.png" alt="image"></div>
-            <div class="shape16"><img src="assets/img/shape/15.png" alt="image"></div>
-            <div class="shape17"><img src="assets/img/shape/16.png" alt="image"></div>
-            <div class="shape18"><img src="assets/img/shape/17.png" alt="image"></div> -->
         </div>
     </div>
 </section>
@@ -50,9 +44,8 @@
                     <h3>Company</h3>
 
                     <ul class="services-list">
+                    <li><a href="/">Home</a></li>
                         <li><a href="/about-us">About Us</a></li>
-                        <li><a href="/faq">FAQ's</a></li>
-                        <li><a href="/contact">Contact Us</a></li>
                     </ul>
                 </div>
             </div>

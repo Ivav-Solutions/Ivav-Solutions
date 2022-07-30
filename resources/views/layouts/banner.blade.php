@@ -78,13 +78,13 @@
                     <div class="d-table">
                         <div class="d-table-cell">
                             <div class="content">
-                                <h1>Secure Solutions for a more secure environment</h1>
-                                <p>In business of People and Technology (PAT). Idea is build on agile team's to help provide everyday business and people solutions through technology with the use of digital tools and expertise.</p>
+                                <h1>Technology and Business Solution for Everyday People</h1>
+                                <p>Idea is build on agile team's to help provide everyday business and people solutions through technology with the use of digital tools and expertise.</p>
 
                                 <p>We want to create a room for innovative ideas and experimental practices to enable quick and tangible results in bid to fulfill customer satisfaction.</p>
 
-                                <a href="/contact" class="default-btn">
-                                    <i class="bx bxs-hot"></i>Contact Us<span></span>
+                                <a href="/about-us" class="default-btn">
+                                    <i class="bx bxs-hot"></i>About Us<span></span>
                                 </a>
                             </div>
                         </div>
