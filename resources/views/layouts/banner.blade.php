@@ -79,9 +79,9 @@
                         <div class="d-table-cell">
                             <div class="content">
                                 <h1>Technology and Business Solution for Everyday People</h1>
-                                <p>Idea is build on agile team's to help provide everyday business and people solutions through technology with the use of digital tools and expertise.</p>
+                                <p>Idea is to build agile teams to help provide everyday business and people solutions through technology with the use of digital tools and expertise.</p>
 
-                                <p>We want to create a room for innovative ideas and experimental practices to enable quick and tangible results in bid to fulfill customer satisfaction.</p>
+                                <p>We want to create a room for innovative ideas and experimental practices to enable quick and tangible results in bid to fulfill customer's satisfaction.</p>
 
                                 <a href="/about-us" class="default-btn">
                                     <i class="bx bxs-hot"></i>About Us<span></span>

@@ -3,7 +3,6 @@
     <div class="container">
         <div class="page-title-content">
             <h2>{{$title}}</h2>
-            <p>{{$subtitle}}</p>
         </div>
     </div>
 </div>

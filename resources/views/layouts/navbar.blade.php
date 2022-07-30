@@ -33,26 +33,6 @@
                                 Home 
                             </a>
                         </li>
-
-                        <li class="nav-item">
-                            <a href="/about-us" class="nav-link {{ (request()->is('about-us')) ? 'active' : '' }}">About Us</a>
-                        </li>
-
-                        <li class="nav-item">
-                            <a href="" class="nav-link ">IvavTech</a>
-                        </li>
-
-                        <li class="nav-item">
-                            <a href="" class="nav-link ">IvavTravel</a>
-                        </li>
-
-                        <li class="nav-item">
-                            <a href="" class="nav-link ">IvavTalent</a>
-                        </li>
-
-                        <li class="nav-item">
-                            <a href="https://www.faofoundation.com/" class="nav-link ">FAO Foundation</a>
-                        </li>
                     </ul>
 
                     <div class="others-options">

@@ -5,7 +5,7 @@
 @endsection
 
 @section('breadcrumb')
-@includeIf('layouts.breadcrumb', ['title' => 'About', 'subtitle' => "The Ivav Solutions Story"])
+@includeIf('layouts.breadcrumb', ['title' => 'About'])
 @endsection
 
 @section('footer')
@@ -99,7 +99,7 @@
                 <div class="single-features-card tx-center">
                     <i class='bx bx-cable-car'></i>
                     <h3>
-                        <a href="#">IvavTravel</a>
+                        <a href="#" target="_blank">IvavTravel</a>
                     </h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor dolore magna aliqua.</p>
                 </div>
@@ -109,7 +109,7 @@
                 <div class="single-features-card tx-center">
                     <i class='bx bx-laptop'></i>
                     <h3>
-                        <a href="#">IvavTech</a>
+                        <a href="#" target="_blank">IvavTech</a>
                     </h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor dolore magna aliqua.</p>
                 </div>
@@ -119,7 +119,7 @@
                 <div class="single-features-card tx-center">
                     <i class='bx bxs-badge-check'></i>
                     <h3>
-                        <a href="#">IvavTalent</a>
+                        <a href="#" target="_blank">IvavTalent</a>
                     </h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor dolore magna aliqua.</p>
                 </div>
@@ -129,7 +129,7 @@
                 <div class="single-features-card tx-center">
                     <i class='bx bxs-megaphone'></i>
                     <h3>
-                        <a href="https://www.faofoundation.com/">FAO Foundation</a>
+                        <a href="https://www.faofoundation.com/" target="_blank">FAO Foundation</a>
                     </h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor dolore magna aliqua.</p>
                 </div>

@@ -35,7 +35,7 @@
                     <div class="logo">
                         <a href="/"><img src="" alt="image"></a>
                     </div>
-                    <p>We create a room for innovative ideas and experimental practices to enable quick and tangible results in bid to fulfill customer satisfaction.</p>
+                    <p>We create a room for innovative ideas and experimental practices to enable quick and tangible results in bid to fulfill customer's satisfaction.</p>
                 </div>
             </div>
 
@@ -55,9 +55,9 @@
                     <h3>Brands</h3>
 
                     <ul class="support-list">
-                        <li><a href="">IvavTech</a></li>
-                        <li><a href="">IvavTravel</a></li>
-                        <li><a href="">IvavTalent</a></li>
+                        <li><a href="" target="_blank">IvavTech</a></li>
+                        <li><a href="" target="_blank">IvavTravel</a></li>
+                        <li><a href="" target="_blank">IvavTalent</a></li>
                         <li><a href="https://www.faofoundation.com/">FAO Foundation</a></li>
                     </ul>
                 </div>
