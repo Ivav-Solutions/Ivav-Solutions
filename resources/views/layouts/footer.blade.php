@@ -35,7 +35,7 @@
                     <div class="logo">
                         <a href="/"><img src="" alt="image"></a>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    <p>We create a room for innovative ideas and experimental practices to enable quick and tangible results in bid to fulfill customer satisfaction.</p>
                 </div>
             </div>
 
