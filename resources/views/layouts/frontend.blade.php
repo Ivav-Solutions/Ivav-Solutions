@@ -29,7 +29,7 @@
 
         <title>{{config('app.name')}}</title>
 
-        <!-- <link rel="icon" type="image/png" href="{{URL::asset('assets/img/favicon.png')}}"> -->
+        <link rel="icon" type="image/png" href="{{URL::asset('assets/img/favicon.png')}}">
         <script type="text/javascript">
             window.setTimeout(function() {
                 $(".alert-timeout").fadeTo(500, 0).slideUp(1000, function(){

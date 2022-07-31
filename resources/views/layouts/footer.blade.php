@@ -33,7 +33,7 @@
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="single-footer-widget">
                     <div class="logo">
-                        <a href="/"><img src="" alt="image"></a>
+                        <a href="/"><img src="{{URL::asset('assets/img/ivavsolutions_logo.png')}}" alt="image"></a>
                     </div>
                     <p>We create a room for innovative ideas and experimental practices to enable quick and tangible results in bid to fulfill customer's satisfaction.</p>
                 </div>

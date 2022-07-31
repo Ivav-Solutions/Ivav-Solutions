@@ -4,12 +4,12 @@
             <div class="strax-responsive-menu">
                 <div class="logo black-logo">
                     <a href="/">
-                        <img src="" alt="logo">
+                        <img src="{{URL::asset('assets/img/ivavsolutions_logo.png')}}" alt="logo">
                     </a>
                 </div>
                 <!-- <div class="logo white-logo">
                     <a href="/">
-                        <img src="" alt="logo">
+                        <img src="{{URL::asset('assets/ivavsolutions_logo.png')}}" alt="logo">
                     </a>
                 </div> -->
             </div>
@@ -20,10 +20,10 @@
         <div class="container">
             <nav class="navbar navbar-expand-md navbar-light">
                 <a class="navbar-brand black-logo" href="/">
-                    <img src="" alt="logo">
+                    <img src="{{URL::asset('assets/img/ivavsolutions_logo.png')}}" alt="logo">
                 </a>
                 <!-- <a class="navbar-brand white-logo" href="/">
-                    <img src="" alt="logo">
+                    <img src="{{URL::asset('assets/ivavsolutions_logo.png')}}" alt="logo">
                 </a> -->
 
                 <div class="collapse navbar-collapse mean-menu" id="navbarSupportedContent">
