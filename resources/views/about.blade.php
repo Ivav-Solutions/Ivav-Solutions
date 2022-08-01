@@ -20,10 +20,16 @@
             <div class="col-lg-6 col-md-12">
                 <div class="about-content">
                     <span class="sub-title">How we are Founded</span>
-                    <h2>Take your business to the next level</h2>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                    <p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
-                    <p>Every month they moved their money the old way – which wasted their time and money. So they invented a beautifully simple workaround that became a billion-dollar business.</p>
+                    <h2>{{config('app.name')}} is a multidisciplinary creative company based in the United Kingdom.</h2>
+
+                    <p>We are a passionate team living and working in different countries around the world to build the best products and offer great services to our audiences.</p>
+
+                    <p>At Ivav Solutions, we do things a little differently and question the norm as can be seen in our mode of operation.</p>
+
+                    <p>We care about building quality products and nurturing trusted relationships that connect us all together. Our passion for making meaningful connections flows through everything we do.</p>
+
+                    <!-- <p>To learn more about our approach to business and work, feel free to reach us using the details below.</p> -->
+
                 </div>
             </div>
 
@@ -36,6 +42,48 @@
     </div>
 </section>
 <!-- End About Area -->
+
+<!-- Start Features Card -->
+<div class="features-card-section pt-100 pb-70 bg-f8fbfa">
+    <div class="container">
+        <div class="section-title">
+            <h2>Our Values</h2>
+            <p>We want to build a different type of company that’s focused on the happiness of our customers and the growth of our team.</p>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 col-sm-4 wow animate__animated animate__fadeInUp" data-wow-delay=".2s">
+                <div class="single-features-card tx-center">
+                    <i class='bx bx-user-check'></i>
+                    <h3>
+                        <a>Integrity</a>
+                    </h3>
+                    <p>When we say we will do, trust us, we will because it is what makes us different.</p>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-sm-4 wow animate__animated animate__fadeInUp" data-wow-delay=".3s">
+                <div class="single-features-card tx-center">
+                    <i class='bx bx-search-alt'></i>
+                    <h3>
+                        <a>Transparency</a>
+                    </h3>
+                    <p>As a team, we view transparency as a lifestyle not just an act which helps us to inspect and adapt.</p>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-sm-4 wow animate__animated animate__fadeInUp" data-wow-delay=".4s">
+                <div class="single-features-card tx-center">
+                    <i class='bx bx-trending-up'></i>
+                    <h3>
+                        <a>Growth</a>
+                    </h3>
+                    <p>We appreciate and support individuals’ personal and professional growth.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Features Card -->
 
 <!-- Start Video Presentation Area -->
 <section class="video-presentation-area ptb-100">
@@ -53,30 +101,23 @@
 
         <div class="funfacts-inner">
             <div class="row">
-                <div class="col-lg-3 col-6 col-sm-3 col-md-3">
+                <div class="col-lg-4 col-4 col-sm-4 col-md-4">
                     <div class="single-funfacts">
-                        <h3><span class="odometer" data-count="500">00</span><span class="sign-icon"><sup>+</sup></span></h3>
+                        <h3><span class="odometer" data-count="5000">00</span><span class="sign-icon">K</span></h3>
                         <p>Hours Worked</p>
                     </div>
                 </div>
 
-                <div class="col-lg-3 col-6 col-sm-3 col-md-3">
+                <div class="col-lg-4 col-4 col-sm-4 col-md-4">
                     <div class="single-funfacts">
-                        <h3><span class="odometer" data-count="1000">00</span><span class="sign-icon"><sup>+</sup></span></h3>
-                        <p>Downloaded</p>
+                        <h3><span class="odometer" data-count="99">00</span><span class="sign-icon">%</span></h3>
+                        <p>Client's Satisfaction</p>
                     </div>
                 </div>
 
-                <div class="col-lg-3 col-6 col-sm-3 col-md-3">
+                <div class="col-lg-4 col-4 col-sm-4 col-md-4">
                     <div class="single-funfacts">
-                        <h3><span class="odometer" data-count="200">00</span><span class="sign-icon"><sup>+</sup></span></h3>
-                        <p>Feedback</p>
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-6 col-sm-3 col-md-3">
-                    <div class="single-funfacts">
-                        <h3><span class="odometer" data-count="700">00</span><span class="sign-icon"><sup>+</sup></span></h3>
+                        <h3><span class="odometer" data-count="7000">00</span><span class="sign-icon">K</span></h3>
                         <p>Subscribers</p>
                     </div>
                 </div>
@@ -99,9 +140,9 @@
                 <div class="single-features-card tx-center">
                     <i class='bx bx-cable-car'></i>
                     <h3>
-                        <a href="#" target="_blank">IvavTravel</a>
+                        <a href="https://ivavtravel.com" target="_blank">IvavTravel</a>
                     </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor dolore magna aliqua.</p>
+                    <p>IvavTravel is a travel company planning clients needs and making their desires to travel abroad a success.</p>
                 </div>
             </div>
 
@@ -111,7 +152,7 @@
                     <h3>
                         <a href="#" target="_blank">IvavTech</a>
                     </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor dolore magna aliqua.</p>
+                    <p>IvavTech is a tech company building products and offering services to help people and businesses become better.</p>
                 </div>
             </div>
 
@@ -121,7 +162,7 @@
                     <h3>
                         <a href="#" target="_blank">IvavTalent</a>
                     </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor dolore magna aliqua.</p>
+                    <p>IvavTalent is a platform where young and talented individuals can promote their gifts to the world.</p>
                 </div>
             </div>
 
@@ -131,7 +172,7 @@
                     <h3>
                         <a href="https://www.faofoundation.com/" target="_blank">FAO Foundation</a>
                     </h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor dolore magna aliqua.</p>
+                    <p>FAO Foundation is our non-profit organization committed to touching the lives of people in ways they least expected.</p>
                 </div>
             </div>
         </div>

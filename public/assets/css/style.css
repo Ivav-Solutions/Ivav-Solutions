@@ -986,7 +986,7 @@ Navbar Area CSS
   position: absolute;
   right: 10px;
   top: 10px;
-  max-width: 255px;
+  max-width: 115px;
   background-color: #ffffff;
   -webkit-box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.1);
           box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.1);
@@ -2524,17 +2524,18 @@ FunFacts Area CSS
 .single-funfacts h3 {
   color: #13c4a1;
   margin-bottom: 0;
-  font-size: 30px;
+  font-size: 50px;
   font-weight: 600;
 }
 
 .single-funfacts h3 .sign-icon {
-  font-size: 28px;
+  font-size: 48px;
 }
 
 .single-funfacts p {
   line-height: initial;
   margin-bottom: 0;
+  font-size: 20px;
 }
 
 .funfact-style-two {

@@ -55,7 +55,7 @@
                     <h3>Brands</h3>
 
                     <ul class="support-list">
-                        <li><a href="" target="_blank">IvavTech</a></li>
+                        <li><a href="https://ivavtravel.com" target="_blank">IvavTech</a></li>
                         <li><a href="" target="_blank">IvavTravel</a></li>
                         <li><a href="" target="_blank">IvavTalent</a></li>
                         <li><a href="https://www.faofoundation.com/">FAO Foundation</a></li>

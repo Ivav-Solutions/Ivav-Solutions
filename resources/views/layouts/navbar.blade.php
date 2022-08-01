@@ -4,7 +4,7 @@
             <div class="strax-responsive-menu">
                 <div class="logo black-logo">
                     <a href="/">
-                        <img src="{{URL::asset('assets/img/ivavsolutions_logo.png')}}" alt="logo">
+                        <img src="{{URL::asset('assets/img/ivavsolutions_logo.png')}}" width="39px" alt="logo">
                     </a>
                 </div>
                 <!-- <div class="logo white-logo">
