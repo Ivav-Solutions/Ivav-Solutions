@@ -71,8 +71,7 @@
                         <li>Location: <a href="#" target="_blank">[{{config('app.address_1')}}]</a>
                                       <a href="#" target="_blank">[{{config('app.address_2')}}]</a></li>
                         <li>Email: <a href="mailto:{{config('app.email')}}"><span class="__cf_email__" data-cfemail="a6cec3cacac9e6d5d2d4c7de88c5c9cb">[{{config('app.email')}}]</span></a></li>
-                        <li>Phone: <a href="tel:{{config('app.phone_1')}}">[{{config('app.phone_1')}}]</a>
-                                    <a href="tel:{{config('app.phone_2')}}">[{{config('app.phone_2')}}]</a></li>
+                        <li>Phone: <a href="tel:{{config('app.phone_2')}}">[{{config('app.phone_2')}}]</a></li>
                     </ul>
                     <ul class="social">
                         <li><a href="#" target="_blank"><i class="bx bxl-facebook"></i></a></li>

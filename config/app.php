@@ -14,7 +14,7 @@ return [
     */
 
     'name' => env('APP_NAME', 'Laravel'),
-    'phone_1' => '+2347020746457',
+    // 'phone_1' => '+2347020746457',
     'phone_2' => '+447949317523',
     'address_1' => 'Lagos Island, Lagos, Nigeria.',
     'address_2' => 'Shelton Street, London.',
