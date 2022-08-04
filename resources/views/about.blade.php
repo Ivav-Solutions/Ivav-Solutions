@@ -20,7 +20,7 @@
             <div class="col-lg-6 col-md-12">
                 <div class="about-content">
                     <span class="sub-title">How we are Founded</span>
-                    <h2>{{config('app.name')}} is a multidisciplinary creative company based in the United Kingdom.</h2>
+                    <h2>{{config('app.name')}} is a multidisciplinary creative company.</h2>
 
                     <p>We are a passionate team living and working in different countries around the world to build the best products and offer great services to our audiences.</p>
 
