@@ -31,14 +31,13 @@ class HomePageController extends Controller
             'subject' => request()->subject,
             'description' => request()->message,
             'created_at' => now(),
-            'admin' => 'info@ivavsolutions.com',
+            'admin' => 'contact@ivavsolutions.com',
         );
         /** Send message to the admin */
         Mail::send('emails.contact', $data, function ($m) use ($data) {
             $m->to($data['admin'])->subject('Contact Form Notification');
         });
 
-        return back()->with('success_report', 'Form Submitted Successfully, We will get in touch with you shortly!');
-        // return response()->json(['success'=>'Form is successfully submitted!']);
+        return back()->with('success_report', 'Thanks for contacting us, We will get in touch with you shortly!');
     }
 }
