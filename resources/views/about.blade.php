@@ -103,7 +103,7 @@
             <div class="row">
                 <div class="col-lg-4 col-4 col-sm-4 col-md-4">
                     <div class="single-funfacts">
-                        <h3><span class="odometer" data-count="5000">00</span><span class="sign-icon">K</span></h3>
+                        <h3><span class="odometer" data-count="5000">00</span><span class="sign-icon">+</span></h3>
                         <p>Hours Worked</p>
                     </div>
                 </div>
@@ -117,7 +117,7 @@
 
                 <div class="col-lg-4 col-4 col-sm-4 col-md-4">
                     <div class="single-funfacts">
-                        <h3><span class="odometer" data-count="7000">00</span><span class="sign-icon">K</span></h3>
+                        <h3><span class="odometer" data-count="1000">00</span><span class="sign-icon">+</span></h3>
                         <p>Subscribers</p>
                     </div>
                 </div>
