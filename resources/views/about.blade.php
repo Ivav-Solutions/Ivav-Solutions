@@ -212,8 +212,8 @@
                     <i class="bx bxs-phone"></i>
                     <div class="content-title">
                         <h3>Phone</h3>
-                        <!-- <a href="tel:{{config('app.phone_1')}}">{{config('app.phone_1')}}</a> -->
-                        <a href="tel:{{config('app.phone_2')}}">{{config('app.phone_2')}}</a>
+                        <a href="tel:{{config('app.phone_1')}}">{{config('app.phone_1')}}</a>
+                        <!-- <a href="tel:{{config('app.phone_2')}}">{{config('app.phone_2')}}</a> -->
                     </div>
                 </div>
             </div>
