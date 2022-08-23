@@ -20,7 +20,8 @@ class HomePageController extends Controller
     public function contactConfirm(Request $request) {
         //Validate Request
         $this->validate($request, [
-            'phone' => 'numeric',
+            'phone' => 'required|numeric',
+            'g-recaptcha-response' => 'required|captcha',
         ]);
 
         /** Store information to include in mail in $data as an array */

@@ -29,6 +29,8 @@
 
         <title>{{config('app.name')}}</title>
 
+        {!! NoCaptcha::renderJs() !!}
+        
         <link rel="icon" type="image/png" href="{{URL::asset('assets/img/favicon.png')}}">
         <script type="text/javascript">
             window.setTimeout(function() {

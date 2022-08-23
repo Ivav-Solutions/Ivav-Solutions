@@ -150,7 +150,7 @@
                 <div class="single-features-card tx-center">
                     <i class='bx bx-laptop'></i>
                     <h3>
-                        <a href="#" target="_blank">IvavTech</a>
+                        <a href="https://ivavtech.com/" target="_blank">IvavTech</a>
                     </h3>
                     <p>IvavTech is a tech company building products and offering services to help people and businesses become better.</p>
                 </div>
@@ -274,6 +274,12 @@
                                     <div class="form-group">
                                         <textarea name="message" class="form-control" id="message" cols="30" rows="6" required data-error="Write your message" placeholder="Your Message"></textarea>
                                         <div class="help-block with-errors"></div>
+                                    </div>
+                                </div>
+
+                                <div class="col-lg-12 col-md-12">
+                                    <div class="form-group">
+                                        {!! app('captcha')->display() !!}
                                     </div>
                                 </div>
 
