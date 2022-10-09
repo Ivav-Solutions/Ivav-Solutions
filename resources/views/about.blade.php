@@ -137,43 +137,51 @@
         </div>
         <div class="row">
             <div class="col-lg-3 col-sm-6 wow animate__animated animate__fadeInUp" data-wow-delay=".2s">
-                <div class="single-features-card tx-center">
-                    <i class='bx bx-cable-car'></i>
-                    <h3>
-                        <a href="https://ivavtravel.com" target="_blank">IvavTravel</a>
-                    </h3>
-                    <p>IvavTravel is a travel company planning clients needs and making their desires to travel abroad a success.</p>
-                </div>
+                <a href="https://ivavtravel.com" target="_blank">    
+                    <div class="single-features-card tx-center">
+                        <i class='bx bx-cable-car'></i>
+                        <h3>
+                            IvavTravel
+                        </h3>
+                        <p>IvavTravel is a travel company planning clients needs and making their desires to travel abroad a success.</p>
+                    </div>
+                </a>
             </div>
 
             <div class="col-lg-3 col-sm-6 wow animate__animated animate__fadeInUp" data-wow-delay=".3s">
-                <div class="single-features-card tx-center">
-                    <i class='bx bx-laptop'></i>
-                    <h3>
-                        <a href="https://ivavtech.com/" target="_blank">IvavTech</a>
-                    </h3>
-                    <p>IvavTech is a tech company building products and offering services to help people and businesses become better.</p>
-                </div>
+                <a href="https://ivavtech.com/" target="_blank">
+                    <div class="single-features-card tx-center">
+                        <i class='bx bx-laptop'></i>
+                        <h3>
+                            IvavTech
+                        </h3>
+                        <p>IvavTech is a tech company building products and offering services to help people and businesses become better.</p>
+                    </div>
+                </a>
             </div>
 
             <div class="col-lg-3 col-sm-6 wow animate__animated animate__fadeInUp" data-wow-delay=".4s">
-                <div class="single-features-card tx-center">
-                    <i class='bx bxs-badge-check'></i>
-                    <h3>
-                        <a href="#" target="_blank">IvavTalent</a>
-                    </h3>
-                    <p>IvavTalent is a platform where young and talented individuals can promote their gifts to the world.</p>
-                </div>
+                <a href="#" target="_blank">    
+                    <div class="single-features-card tx-center">
+                        <i class='bx bxs-badge-check'></i>
+                        <h3>
+                            IvavTalent
+                        </h3>
+                        <p>IvavTalent is a platform where young and talented individuals can promote their gifts to the world.</p>
+                    </div>
+                </a>
             </div>
 
             <div class="col-lg-3 col-sm-6 wow animate__animated animate__fadeInUp" data-wow-delay=".5s">
-                <div class="single-features-card tx-center">
-                    <i class='bx bxs-megaphone'></i>
-                    <h3>
-                        <a href="https://www.faofoundation.com/" target="_blank">FAO Foundation</a>
-                    </h3>
-                    <p>FAO Foundation is our non-profit organization committed to touching the lives of people in ways they least expected.</p>
-                </div>
+                <a href="https://www.faofoundation.com/" target="_blank">
+                    <div class="single-features-card tx-center">
+                        <i class='bx bxs-megaphone'></i>
+                        <h3>
+                            FAO Foundation
+                        </h3>
+                        <p>FAO Foundation is our non-profit organization committed to touching the lives of people in ways they least expected.</p>
+                    </div>
+                </a>
             </div>
         </div>
     </div>
