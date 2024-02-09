@@ -15,4 +15,5 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', [App\Http\Controllers\HomePageController::class, 'index']);
 Route::get('/about-us', [App\Http\Controllers\HomePageController::class, 'about_us']);
+Route::get('/landing-page', [App\Http\Controllers\HomePageController::class, 'landing_page']);
 Route::post('/contact-us', [App\Http\Controllers\HomePageController::class, 'contactConfirm']);

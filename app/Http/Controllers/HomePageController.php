@@ -12,11 +12,16 @@ class HomePageController extends Controller
     public function index() {
         return view('welcome');
     }
-    
+
     public function about_us() {
         return view('about');
     }
-    
+
+    public function landing_page()
+    {
+        return view('landing');
+    }
+
     public function contactConfirm(Request $request) {
         //Validate Request
         $this->validate($request, [
