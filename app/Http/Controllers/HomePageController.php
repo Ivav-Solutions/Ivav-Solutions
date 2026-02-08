@@ -41,4 +41,16 @@ class HomePageController extends Controller
 
         return back()->with('success_report', 'Thanks for contacting us, We will get in touch with you shortly!');
     }
+
+    public function refund_policy() {
+        return view('refund_policy');
+    }
+
+    public function privacy_policy() {
+        return view('privacy_policy');
+    }
+
+    public function terms_conditions() {
+        return view('terms_conditions');
+    }
 }

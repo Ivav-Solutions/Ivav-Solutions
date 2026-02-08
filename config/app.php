@@ -18,7 +18,7 @@ return [
     'phone_2' => '+447949317523',
     'address_1' => 'Lagos, Nigeria.',
     'address_2' => 'Shelton Street, London.',
-    'email' => 'info@ivavsolutions.com',
+    'email' => 'contact@ivavsolutions.com',
     /*
     |--------------------------------------------------------------------------
     | Application Environment

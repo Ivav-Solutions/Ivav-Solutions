@@ -44,8 +44,11 @@
                     <h3>Company</h3>
 
                     <ul class="services-list">
-                    <li><a href="/">Home</a></li>
+                        <li><a href="/">Home</a></li>
                         <li><a href="/about-us">About Us</a></li>
+                        <li><a href="/refund-policy">Refund Policy</a></li>
+                        <li><a href="/privacy-policy">Privacy Policy</a></li>
+                        <li><a href="/terms-conditions">Terms & Conditions</a></li>
                     </ul>
                 </div>
             </div>
