@@ -14,11 +14,13 @@ return [
     */
 
     'name' => env('APP_NAME', 'Laravel'),
-    'phone_1' => '+442038731072',
-    'phone_2' => '+447949317523',
+    'phone_1' => '+2349034967606',
+    'phone_2' => '',
     'address_1' => 'Lagos, Nigeria.',
     'address_2' => 'Shelton Street, London.',
+    'address_3' => '2 Akinyemi Street, Alagbaka GRA, Akure, Nigeria.',
     'email' => 'contact@ivavsolutions.com',
+    'email_2' => 'ivavsolutionsinfo@gmail.com',
     /*
     |--------------------------------------------------------------------------
     | Application Environment
