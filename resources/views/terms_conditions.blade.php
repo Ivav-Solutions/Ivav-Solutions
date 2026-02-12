@@ -31,84 +31,184 @@
                         <h3>1. Introduction</h3>
                         <p>
                             Welcome to Ivav Solutions (“Company”, “we”, “our”, or “us”), operated by My Ivav LTD.
-                            These Terms and Conditions (“Terms”) govern your access to and use of our website,
-                            services, and digital products.
                         </p>
                         <p>
-                            By accessing or using our website or purchasing our services, you agree to be bound
-                            by these Terms. If you do not agree, discontinue use immediately.
+                            These Terms and Conditions (“Terms”) govern your access to and use of our website, services, and any digital products provided by us.
+                        </p>
+                        <p>
+                            By accessing or using our website, purchasing our services, or using any of our digital products, you agree to be bound by these Terms. If you do not agree, you must discontinue use immediately.
                         </p>
                     </div>
 
                     <div class="terms-section">
                         <h3>2. Services and Digital Products</h3>
+                        <p>
+                            Ivav Solutions provides professional services and digital products as described on this website.
+                        </p>
+                        <p>We reserve the right to:</p>
                         <ul>
-                            <li>We may modify, update, or discontinue services at any time.</li>
-                            <li>We may refuse service to comply with applicable laws.</li>
-                            <li>Pricing and availability may change without notice.</li>
+                            <li>Modify, update, or discontinue any service or digital product at any time.</li>
+                            <li>Refuse service where necessary to comply with applicable laws or policies.</li>
+                            <li>Update descriptions, pricing, or availability without prior notice.</li>
                         </ul>
                     </div>
 
                     <div class="terms-section">
                         <h3>3. Eligibility</h3>
+                        <p>By using our website or purchasing our services or digital products, you confirm that:</p>
                         <ul>
-                            <li>You are at least 18 years old or legally capable.</li>
-                            <li>Information provided is accurate and complete.</li>
-                            <li>Use of services is for lawful purposes only.</li>
+                            <li>You are at least 18 years old or have legal capacity under applicable law.</li>
+                            <li>All information you provide is accurate and complete.</li>
+                            <li>You will use our website, services, and digital products only for lawful purposes.</li>
                         </ul>
                     </div>
 
                     <div class="terms-section">
-                        <h3>4. Payments and Refunds</h3>
-                        <p>All payments are due upfront unless agreed otherwise in writing.</p>
+                        <h3>4. User Accounts</h3>
+                        <p>Where account registration is required:</p>
+                        <ul>
+                            <li>You agree to provide accurate, current, and complete information.</li>
+                            <li>You are responsible for safeguarding your login credentials.</li>
+                            <li>You accept responsibility for all activities under your account.</li>
+                            <li>We reserve the right to suspend or terminate accounts that violate these Terms or provide false information.</li>
+                        </ul>
+                    </div>
+
+                    <div class="terms-section">
+                        <h3>5. Payments and Pricing</h3>
+                        <ul>
+                            <li>All payments are due upfront unless otherwise agreed in writing.</li>
+                            <li>Prices for services and digital products will be displayed prior to purchase.</li>
+                            <li>We reserve the right to modify pricing at any time.</li>
+                            <li>Payments are processed through approved third-party payment providers.</li>
+                            <li>You agree to provide valid payment details and authorize us to charge the applicable fees.</li>
+                        </ul>
+                    </div>
+
+                    <div class="terms-section">
+                        <h3>6. Refund Policy</h3>
                         <p>
-                            Refund requests must be submitted within 7 days and apply only to
-                            services not fully delivered. Completed or customized services
-                            are non-refundable.
+                            IVAV Solutions provides services with a commitment to quality and client satisfaction.
                         </p>
                         <p>
-                            Approved refunds are processed within 7–14 business days
-                            using the original payment method.
+                            Refund requests must be submitted within 7 days of payment and will only be considered for services that have not been fully delivered or utilized. Payments for completed or customized services are non-refundable.
                         </p>
                         <p>
-                            Contact: <strong>contact@ivavsolutions.com</strong>
+                            Approved refunds will be processed within 7–14 business days using the original payment method.
+                        </p>
+                        <p>
+                            For refund requests, contact us at:<br>
+                            Email: contact@ivavsolutions.com
                         </p>
                     </div>
 
                     <div class="terms-section">
-                        <h3>5. Intellectual Property</h3>
+                        <h3>7. Intellectual Property Rights</h3>
                         <p>
-                            All website content including text, graphics, logos, designs,
-                            software, and digital materials are the exclusive property
-                            of My Ivav LTD – Ivav Solutions unless otherwise stated.
+                            All content available on our website and within our services or digital products, including but not limited to:
+                        </p>
+                        <ul>
+                            <li>Text</li>
+                            <li>Graphics</li>
+                            <li>Logos</li>
+                            <li>Designs</li>
+                            <li>Software</li>
+                            <li>Downloads</li>
+                            <li>Course materials or digital content</li>
+                        </ul>
+                        <p>
+                            are the exclusive intellectual property of My Ivav LTD – Ivav Solutions, unless otherwise stated.
                         </p>
                         <p>
-                            Unauthorized reproduction, distribution, or resale is prohibited.
+                            You may not copy, reproduce, distribute, modify, resell, or exploit any content without our prior written consent.
+                        </p>
+                        <p>
+                            Unauthorized use may result in legal action.
                         </p>
                     </div>
 
                     <div class="terms-section">
-                        <h3>6. Limitation of Liability</h3>
+                        <h3>8. Acceptable Use</h3>
+                        <p>You agree not to:</p>
+                        <ul>
+                            <li>Use our website, services, or digital products for unlawful or fraudulent purposes.</li>
+                            <li>Attempt unauthorized access to our systems or data.</li>
+                            <li>Reverse engineer, duplicate, or resell our digital products.</li>
+                            <li>Upload or transmit malicious software or harmful content.</li>
+                            <li>Infringe upon our intellectual property or the rights of other users.</li>
+                        </ul>
+                    </div>
+
+                    <div class="terms-section">
+                        <h3>9. Disclaimer of Warranties</h3>
                         <p>
-                            To the fullest extent permitted by law, we are not liable for
-                            indirect, incidental, or consequential damages arising from
-                            use of our services.
+                            Our website, services, and digital products are provided “as is” and “as available” without warranties of any kind, whether express or implied.
                         </p>
+                        <p>We do not guarantee:</p>
+                        <ul>
+                            <li>That the website will operate uninterrupted or error-free.</li>
+                            <li>That services or digital products will meet specific individual expectations.</li>
+                            <li>That the website will be free from viruses or harmful components.</li>
+                        </ul>
+                    </div>
+
+                    <div class="terms-section">
+                        <h3>10. Limitation of Liability</h3>
+                        <p>To the fullest extent permitted by law:</p>
                         <p>
-                            Our total liability shall not exceed the amount paid for the
-                            service giving rise to the claim.
+                            My Ivav LTD – Ivav Solutions shall not be liable for:
+                        </p>
+                        <ul>
+                            <li>Indirect, incidental, special, or consequential damages.</li>
+                            <li>Loss of profits, revenue, data, or business opportunities.</li>
+                            <li>Any damages arising from the use or inability to use our website, services, or digital products.</li>
+                        </ul>
+                        <p>
+                            Our total liability for any claim shall not exceed the amount paid by you for the specific service or digital product giving rise to the claim.
                         </p>
                     </div>
 
                     <div class="terms-section">
-                        <h3>7. Governing Law</h3>
+                        <h3>11. Third-Party Services</h3>
                         <p>
-                            These Terms are governed by the laws of the Federal Republic
-                            of Nigeria. Disputes shall be subject to the exclusive
-                            jurisdiction of Nigerian courts.
+                            Our website may contain links to third-party websites or integrate third-party tools. We are not responsible for the content, policies, or practices of third-party platforms.
                         </p>
                     </div>
 
+                    <div class="terms-section">
+                        <h3>12. Privacy</h3>
+                        <p>
+                            Your use of our website and services is also governed by our Privacy Policy, which explains how we collect, use, and protect your information.
+                        </p>
+                    </div>
+
+                    <div class="terms-section">
+                        <h3>13. Suspension and Termination</h3>
+                        <ul>
+                            <li>Suspend or terminate access to our website, services, or digital products at our discretion.</li>
+                            <li>Restrict access if a user violates these Terms.</li>
+                        </ul>
+                    </div>
+
+                    <div class="terms-section">
+                        <h3>14. Changes to These Terms</h3>
+                        <p>
+                            We may update these Terms at any time. Updated versions will be posted on this page with a revised effective date.
+                        </p>
+                        <p>
+                            Your continued use of our website, services, or digital products constitutes acceptance of any changes.
+                        </p>
+                    </div>
+
+                    <div class="terms-section">
+                        <h3>15. Governing Law</h3>
+                        <p>
+                            These Terms shall be governed by and interpreted in accordance with the laws of the Federal Republic of Nigeria.
+                        </p>
+                        <p>
+                            Any disputes arising under these Terms shall be subject to the exclusive jurisdiction of the courts of Nigeria.
+                        </p>
+                    </div>
                 </div>
             </div>
         </div>
