@@ -79,9 +79,9 @@
                         <li>Phone: <a href="tel:{{config('app.phone_1')}}">[{{config('app.phone_1')}}]</a></li>
                     </ul>
                     <ul class="social">
-                        <li><a href="#" target="_blank"><i class="bx bxl-facebook"></i></a></li>
+                        <!-- <li><a href="#" target="_blank"><i class="bx bxl-facebook"></i></a></li>
                         <li><a href="#" target="_blank"><i class="bx bxl-twitter"></i></a></li>
-                        <li><a href="#" target="_blank"><i class="bx bxl-linkedin"></i></a></li>
+                        <li><a href="#" target="_blank"><i class="bx bxl-linkedin"></i></a></li> -->
                         <li><a href="https://www.linkedin.com/company/ivav-solutions/" target="_blank"><i class="bx bxl-instagram"></i></a></li>
                     </ul>
                 </div>
