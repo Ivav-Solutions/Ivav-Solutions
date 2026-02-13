@@ -130,7 +130,7 @@
 <!-- End Video Presentation Area -->
 
 <!-- Start Features Card -->
-<div class="features-card-section pt-100 pb-70 bg-f8fbfa">
+<!-- <div class="features-card-section pt-100 pb-70 bg-f8fbfa">
     <div class="container">
         <div class="section-title">
             <h2>Our Brands</h2>
@@ -185,7 +185,7 @@
             </div>
         </div>
     </div>
-</div>
+</div> -->
 <!-- End Features Card -->
 
 <section class="contact-box ptb-100">

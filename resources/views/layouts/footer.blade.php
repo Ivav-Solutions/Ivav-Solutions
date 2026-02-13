@@ -39,7 +39,7 @@
                 </div>
             </div>
 
-            <div class="col-lg-2 col-md-6 col-sm-6">
+            <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="single-footer-widget">
                     <h3>Company</h3>
 
@@ -53,7 +53,7 @@
                 </div>
             </div>
 
-            <div class="col-lg-2 col-md-6 col-sm-6">
+            <!-- <div class="col-lg-2 col-md-6 col-sm-6">
                 <div class="single-footer-widget">
                     <h3>Brands</h3>
 
@@ -64,7 +64,7 @@
                         <li><a href="https://www.faofoundation.com/">FAO Foundation</a></li>
                     </ul>
                 </div>
-            </div>
+            </div> -->
 
             <div class="col-lg-4 col-md-6 col-sm-6">
                 <div class="single-footer-widget">
