@@ -130,6 +130,82 @@
 <!-- End Video Presentation Area -->
 
 <!-- Start Features Card -->
+<div class="features-card-section pt-100 pb-70 bg-f8fbfa">
+    <div class="container">
+        <div class="section-title">
+            <h2>Our Services</h2>
+        </div>
+        <div class="row">
+            <div class="col-lg-3 col-sm-6 wow animate__animated animate__fadeInUp" data-wow-delay=".2s">
+                <a href="#" target="_blank">    
+                    <div class="single-features-card tx-center">
+                        <i class='bx bx-laptop'></i>
+                        <h3>
+                            Web Development
+                        </h3>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-lg-3 col-sm-6 wow animate__animated animate__fadeInUp" data-wow-delay=".3s">
+                <a href="#" target="_blank">
+                    <div class="single-features-card tx-center">
+                        <i class='bx bx-laptop'></i>
+                        <h3>
+                            Mobile App Development
+                        </h3>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-lg-3 col-sm-6 wow animate__animated animate__fadeInUp" data-wow-delay=".4s">
+                <a href="#" target="_blank">    
+                    <div class="single-features-card tx-center">
+                        <i class='bx bx-laptop'></i>
+                        <h3>
+                            Project Management
+                        </h3>
+                     </div>
+                </a>
+            </div>
+
+            <div class="col-lg-3 col-sm-6 wow animate__animated animate__fadeInUp" data-wow-delay=".4s">
+                <a href="#" target="_blank">    
+                    <div class="single-features-card tx-center">
+                        <i class='bx bx-laptop'></i>
+                        <h3>
+                            Product Management
+                        </h3>
+                     </div>
+                </a>
+            </div>
+
+            <div class="col-lg-3 col-sm-6 wow animate__animated animate__fadeInUp" data-wow-delay=".5s">
+                <a href="#" target="_blank">
+                    <div class="single-features-card tx-center">
+                        <i class='bx bx-laptop'></i>
+                        <h3>
+                           Brand Design
+                        </h3>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-lg-3 col-sm-6 wow animate__animated animate__fadeInUp" data-wow-delay=".5s">
+                <a href="#" target="_blank">
+                    <div class="single-features-card tx-center">
+                        <i class='bx bx-laptop'></i>
+                        <h3>
+                           Digital Marketing
+                        </h3>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Features Card -->
+
 <!-- <div class="features-card-section pt-100 pb-70 bg-f8fbfa">
     <div class="container">
         <div class="section-title">
@@ -186,7 +262,6 @@
         </div>
     </div>
 </div> -->
-<!-- End Features Card -->
 
 <section class="contact-box ptb-100">
     <div class="container">
