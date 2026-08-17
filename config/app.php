@@ -16,7 +16,7 @@ return [
     'name' => env('APP_NAME', 'Laravel'),
     'phone_1' => '+2349034967606',
     'phone_2' => '',
-    'address_1' => 'Lagos, Nigeria.',
+    'address_1' => 'KM 42, Didi Mall, Adjacent ShopRite (Novare Mall), Lekki-Epe Exp Way, Sangotedo-Ajah, Lagos.',
     'address_2' => 'Shelton Street, London.',
     'address_3' => '2 Akinyemi Street, Alagbaka GRA, Akure, Nigeria.',
     'email' => 'contact@ivavsolutions.com',

@@ -71,12 +71,12 @@
                     <h3>Contact Info</h3>
 
                     <ul class="footer-contact-info">
-                        <li>Location: <a href="#" target="_blank">[{{config('app.address_1')}}]</a>
-                                      <a href="#" target="_blank">[{{config('app.address_2')}}]</a>
-                                      <a href="#" target="_blank">[{{config('app.address_3')}}]</a></li>
-                        <li>Email: <a href="mailto:{{config('app.email')}}"><span class="__cf_email__" data-cfemail="a6cec3cacac9e6d5d2d4c7de88c5c9cb">[{{config('app.email')}}]</span></a>
-                                    <a href="mailto:{{config('app.email_2')}}"><span class="__cf_email__" data-cfemail="a6cec3cacac9e6d5d2d4c7de88c5c9cb">[{{config('app.email_2')}}]</span></a></li>
-                        <li>Phone: <a href="tel:{{config('app.phone_1')}}">[{{config('app.phone_1')}}]</a></li>
+                        <li>Location: <a href="#" target="_blank">{{config('app.address_1')}}</a>
+                                      <a href="#" target="_blank">{{config('app.address_2')}}</a>
+                                      <a href="#" target="_blank">{{config('app.address_3')}}</a></li>
+                        <li>Email: <a href="mailto:{{config('app.email')}}"><span class="__cf_email__" data-cfemail="a6cec3cacac9e6d5d2d4c7de88c5c9cb">{{config('app.email')}}</span></a>
+                                    <a href="mailto:{{config('app.email_2')}}"><span class="__cf_email__" data-cfemail="a6cec3cacac9e6d5d2d4c7de88c5c9cb">{{config('app.email_2')}}</span></a></li>
+                        <li>Phone: <a href="tel:{{config('app.phone_1')}}">{{config('app.phone_1')}}</a></li>
                     </ul>
                     <ul class="social">
                         <!-- <li><a href="#" target="_blank"><i class="bx bxl-facebook"></i></a></li>

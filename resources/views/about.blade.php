@@ -24,7 +24,7 @@
 
                     <p>We are a passionate team living and working in different countries around the world to build the best products and offer great services to our audiences.</p>
 
-                    <p>At Ivav Solutions, we do things a little differently and question the norm as can be seen in our mode of operation.</p>
+                    <p>At My Ivav Limited, we do things a little differently and question the norm as can be seen in our mode of operation.</p>
 
                     <p>We care about building quality products and nurturing trusted relationships that connect us all together. Our passion for making meaningful connections flows through everything we do.</p>
 
@@ -206,7 +206,7 @@
 </div>
 <!-- End Features Card -->
 
-<!-- <div class="features-card-section pt-100 pb-70 bg-f8fbfa">
+<div class="features-card-section pt-100 pb-70 bg-f8fbfa">
     <div class="container">
         <div class="section-title">
             <h2>Our Brands</h2>
@@ -223,8 +223,20 @@
                     </div>
                 </a>
             </div>
+            
+            <!-- <div class="col-lg-3 col-sm-6 wow animate__animated animate__fadeInUp" data-wow-delay=".2s">
+                <a href="https://ivavtravel.com" target="_blank">    
+                    <div class="single-features-card tx-center">
+                        <i class='bx bx-cable-car'></i>
+                        <h3>
+                            IvavTravel
+                        </h3>
+                        <p>IvavTravel is a travel company planning clients needs and making their desires to travel abroad a success.</p>
+                    </div>
+                </a>
+            </div> -->
 
-            <div class="col-lg-3 col-sm-6 wow animate__animated animate__fadeInUp" data-wow-delay=".3s">
+            <!-- <div class="col-lg-3 col-sm-6 wow animate__animated animate__fadeInUp" data-wow-delay=".3s">
                 <a href="https://ivavtech.com/" target="_blank">
                     <div class="single-features-card tx-center">
                         <i class='bx bx-laptop'></i>
@@ -258,10 +270,10 @@
                         <p>FAO Foundation is our non-profit organization committed to touching the lives of people in ways they least expected.</p>
                     </div>
                 </a>
-            </div>
+            </div> -->
         </div>
     </div>
-</div> -->
+</div>
 
 <section class="contact-box ptb-100">
     <div class="container">
