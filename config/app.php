@@ -21,6 +21,7 @@ return [
     'address_3' => '2 Akinyemi Street, Alagbaka GRA, Akure, Nigeria.',
     'email' => 'contact@ivavsolutions.com',
     'email_2' => 'ivavsolutionsinfo@gmail.com',
+    
     /*
     |--------------------------------------------------------------------------
     | Application Environment
