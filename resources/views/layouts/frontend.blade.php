@@ -43,41 +43,41 @@
 
     <body>
 
-    <!-- Start Navbar Area -->
-    @yield('navbar')
-    <!-- End Navbar Area -->
+        <!-- Start Navbar Area -->
+        @yield('navbar')
+        <!-- End Navbar Area -->
+            
+        <!-- Start Main Banner Area -->
+        @yield('banner')
+        <!-- End Main Banner Area -->
+
+        <!-- Breadcrumb -->
+        @yield('breadcrumb')
+        <!-- End Breadcrumb -->
         
-    <!-- Start Main Banner Area -->
-    @yield('banner')
-    <!-- End Main Banner Area -->
+        <!-- Page-Content -->
+        @yield('page-content')
+        <!-- End Page-Content -->
 
-    <!-- Breadcrumb -->
-    @yield('breadcrumb')
-    <!-- End Breadcrumb -->
-    
-    <!-- Page-Content -->
-    @yield('page-content')
-    <!-- End Page-Content -->
+        <!-- Start Footer Area -->
+        @yield('footer')
+        <!-- End Footer Area -->
 
-    <!-- Start Footer Area -->
-    @yield('footer')
-    <!-- End Footer Area -->
+        <!--Start of Tawk.to Script-->
+        <script type="text/javascript">
+            var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+            (function(){
+            var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+            s1.async=true;
+            s1.src='https://embed.tawk.to/62dbf6e437898912e95f4403/1g8ljortc';
+            s1.charset='UTF-8';
+            s1.setAttribute('crossorigin','*');
+            s0.parentNode.insertBefore(s1,s0);
+            })();
+        </script>
+        <!--End of Tawk.to Script-->
 
-    <!--Start of Tawk.to Script-->
-    <script type="text/javascript">
-    var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-    (function(){
-    var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-    s1.async=true;
-    s1.src='https://embed.tawk.to/62dbf6e437898912e95f4403/1g8ljortc';
-    s1.charset='UTF-8';
-    s1.setAttribute('crossorigin','*');
-    s0.parentNode.insertBefore(s1,s0);
-    })();
-    </script>
-    <!--End of Tawk.to Script-->
-
-    <div class="go-top"><i class='bx bx-chevron-up'></i></div>
+        <div class="go-top"><i class='bx bx-chevron-up'></i></div>
         
         <!-- jQuery Min JS -->
         <script src="{{URL::asset('assets/js/jquery.min.js')}}"></script>
@@ -108,6 +108,13 @@
         <script src="{{URL::asset('assets/js/custom-particles.js')}}"></script>
         <!-- Main JS -->
         <script src="{{URL::asset('assets/js/main.js')}}"></script>
+
+        <!-- Wow.js -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js">
+        </script>
+        <script>
+            new WOW().init();
+        </script>
     </body>
 
 </html>

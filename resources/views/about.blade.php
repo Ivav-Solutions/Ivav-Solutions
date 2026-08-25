@@ -129,82 +129,272 @@
 </section>
 <!-- End Video Presentation Area -->
 
-<!-- Start Features Card -->
+<!-- ============================================================
+    FEATURES CARD SECTION
+    ============================================================ -->
 <div class="features-card-section pt-100 pb-70 bg-f8fbfa">
     <div class="container">
         <div class="section-title">
             <h2>Our Services</h2>
         </div>
-        <div class="row">
+
+        <div class="row g-4">
+            <!-- 1 – Web Development -->
             <div class="col-lg-3 col-sm-6 wow animate__animated animate__fadeInUp" data-wow-delay=".2s">
-                <a href="#" target="_blank">    
-                    <div class="single-features-card tx-center">
-                        <i class='bx bx-laptop'></i>
-                        <h3>
-                            Web Development
-                        </h3>
-                    </div>
-                </a>
+                <div class="single-features-card" data-bs-toggle="modal" data-bs-target="#modalWebDev">
+                    <i class='bx bx-laptop'></i>
+                    <h3>Web Development</h3>
+                </div>
             </div>
 
+            <!-- 2 – Mobile App Development -->
             <div class="col-lg-3 col-sm-6 wow animate__animated animate__fadeInUp" data-wow-delay=".3s">
-                <a href="#" target="_blank">
-                    <div class="single-features-card tx-center">
-                        <i class='bx bx-laptop'></i>
-                        <h3>
-                            Mobile App Development
-                        </h3>
-                    </div>
-                </a>
+                <div class="single-features-card" data-bs-toggle="modal" data-bs-target="#modalMobileApp">
+                    <i class='bx bx-mobile-alt'></i>
+                    <h3>Mobile App Development</h3>
+                </div>
             </div>
 
+            <!-- 3 – Project Management -->
             <div class="col-lg-3 col-sm-6 wow animate__animated animate__fadeInUp" data-wow-delay=".4s">
-                <a href="#" target="_blank">    
-                    <div class="single-features-card tx-center">
-                        <i class='bx bx-laptop'></i>
-                        <h3>
-                            Project Management
-                        </h3>
-                     </div>
-                </a>
+                <div class="single-features-card" data-bs-toggle="modal" data-bs-target="#modalProjectMgmt">
+                    <i class='bx bx-task'></i>
+                    <h3>Project Management</h3>
+                </div>
             </div>
 
+            <!-- 4 – Product Management -->
             <div class="col-lg-3 col-sm-6 wow animate__animated animate__fadeInUp" data-wow-delay=".4s">
-                <a href="#" target="_blank">    
-                    <div class="single-features-card tx-center">
-                        <i class='bx bx-laptop'></i>
-                        <h3>
-                            Product Management
-                        </h3>
-                     </div>
-                </a>
+                <div class="single-features-card" data-bs-toggle="modal" data-bs-target="#modalProductMgmt">
+                    <i class='bx bx-package'></i>
+                    <h3>Product Management</h3>
+                </div>
             </div>
 
+            <!-- 5 – Brand Design -->
             <div class="col-lg-3 col-sm-6 wow animate__animated animate__fadeInUp" data-wow-delay=".5s">
-                <a href="#" target="_blank">
-                    <div class="single-features-card tx-center">
-                        <i class='bx bx-laptop'></i>
-                        <h3>
-                           Brand Design
-                        </h3>
-                    </div>
-                </a>
+                <div class="single-features-card" data-bs-toggle="modal" data-bs-target="#modalBrandDesign">
+                    <i class='bx bx-palette'></i>
+                    <h3>Brand Design</h3>
+                </div>
             </div>
 
+            <!-- 6 – Digital Marketing -->
             <div class="col-lg-3 col-sm-6 wow animate__animated animate__fadeInUp" data-wow-delay=".5s">
-                <a href="#" target="_blank">
-                    <div class="single-features-card tx-center">
-                        <i class='bx bx-laptop'></i>
-                        <h3>
-                           Digital Marketing
-                        </h3>
-                    </div>
-                </a>
+                <div class="single-features-card" data-bs-toggle="modal" data-bs-target="#modalDigitalMkt">
+                    <i class='bx bx-line-chart'></i>
+                    <h3>Digital Marketing</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- ============================================================
+    MODALS
+    ============================================================ -->
+
+<!-- ─── 1. Web Development ─── -->
+<div class="modal fade service-modal" id="modalWebDev" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class='bx bx-x'></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="modal-icon"><i class='bx bx-laptop'></i></div>
+                <div class="modal-sub">Service</div>
+                <h5 class="modal-title">Web Development</h5>
+                <p class="modal-description">
+                    We build fast, responsive, and scalable web applications tailored to your business needs.
+                    From sleek landing pages to complex enterprise platforms, our team uses modern frameworks
+                    and best practices to deliver outstanding digital experiences.
+                </p>
+                <ul class="modal-features">
+                    <li><i class='bx bx-check-circle'></i> Custom front-end &amp; back-end</li>
+                    <li><i class='bx bx-check-circle'></i> E-commerce &amp; CMS solutions</li>
+                    <li><i class='bx bx-check-circle'></i> API integration &amp; microservices</li>
+                    <li><i class='bx bx-check-circle'></i> Performance optimisation</li>
+                </ul>
+                <a href="https://wa.me/{{config('app.phone_1')}}" target="_blank" class="modal-cta">Let's talk about your project</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- ─── 2. Mobile App Development ─── -->
+<div class="modal fade service-modal" id="modalMobileApp" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class='bx bx-x'></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="modal-icon"><i class='bx bx-mobile-alt'></i></div>
+                <div class="modal-sub">Service</div>
+                <h5 class="modal-title">Mobile App Development</h5>
+                <p class="modal-description">
+                    We create native and cross-platform mobile apps that engage users and drive results.
+                    Whether you need an iOS, Android, or hybrid solution, our team designs intuitive
+                    interfaces with robust back-end support for seamless performance.
+                </p>
+                <ul class="modal-features">
+                    <li><i class='bx bx-check-circle'></i> Native (Swift / Kotlin) &amp; cross-platform</li>
+                    <li><i class='bx bx-check-circle'></i> UI/UX design &amp; prototyping</li>
+                    <li><i class='bx bx-check-circle'></i> App store deployment &amp; maintenance</li>
+                    <li><i class='bx bx-check-circle'></i> Push notifications &amp; analytics</li>
+                </ul>
+                <a href="https://wa.me/{{config('app.phone_1')}}" target="_blank" class="modal-cta">Let's build your app</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- ─── 3. Project Management ─── -->
+<div class="modal fade service-modal" id="modalProjectMgmt" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class='bx bx-x'></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="modal-icon"><i class='bx bx-task'></i></div>
+                <div class="modal-sub">Service</div>
+                <h5 class="modal-title">Project Management</h5>
+                <p class="modal-description">
+                    We bring structure, clarity, and accountability to your projects. Using agile methodologies
+                    and industry-leading tools, we ensure your initiatives are delivered on time, within scope,
+                    and aligned with your strategic goals.
+                </p>
+                <ul class="modal-features">
+                    <li><i class='bx bx-check-circle'></i> Agile / Scrum / Kanban</li>
+                    <li><i class='bx bx-check-circle'></i> Risk &amp; resource management</li>
+                    <li><i class='bx bx-check-circle'></i> Stakeholder communication</li>
+                    <li><i class='bx bx-check-circle'></i> End-to-end project delivery</li>
+                </ul>
+                <a href="https://wa.me/{{config('app.phone_1')}}" target="_blank" class="modal-cta">Let's manage your project</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- ─── 4. Product Management ─── -->
+<div class="modal fade service-modal" id="modalProductMgmt" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class='bx bx-x'></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="modal-icon"><i class='bx bx-package'></i></div>
+                <div class="modal-sub">Service</div>
+                <h5 class="modal-title">Product Management</h5>
+                <p class="modal-description">
+                    We help you define, develop, and launch products that customers love. From discovery and
+                    roadmap planning to go-to-market strategy, our product managers partner with you to turn
+                    ideas into successful, revenue-generating products.
+                </p>
+                <ul class="modal-features">
+                    <li><i class='bx bx-check-circle'></i> Product discovery &amp; validation</li>
+                    <li><i class='bx bx-check-circle'></i> Roadmap &amp; backlog prioritisation</li>
+                    <li><i class='bx bx-check-circle'></i> Market research &amp; competitor analysis</li>
+                    <li><i class='bx bx-check-circle'></i> Launch &amp; growth strategy</li>
+                </ul>
+                <a href="https://wa.me/{{config('app.phone_1')}}" target="_blank" class="modal-cta">Let's build your product</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- ─── 5. Brand Design ─── -->
+<div class="modal fade service-modal" id="modalBrandDesign" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class='bx bx-x'></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="modal-icon"><i class='bx bx-palette'></i></div>
+                <div class="modal-sub">Service</div>
+                <h5 class="modal-title">Brand Design</h5>
+                <p class="modal-description">
+                    We craft distinctive brand identities that resonate with your audience and set you apart.
+                    From logos and colour systems to typography and visual language, we create cohesive brand
+                    experiences that build trust and recognition.
+                </p>
+                <ul class="modal-features">
+                    <li><i class='bx bx-check-circle'></i> Logo &amp; identity design</li>
+                    <li><i class='bx bx-check-circle'></i> Brand guidelines &amp; style tiles</li>
+                    <li><i class='bx bx-check-circle'></i> Packaging &amp; collateral design</li>
+                    <li><i class='bx bx-check-circle'></i> Brand strategy &amp; positioning</li>
+                </ul>
+                <a href="https://wa.me/{{config('app.phone_1')}}" target="_blank" class="modal-cta">Let's design your brand</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- ─── 6. Digital Marketing ─── -->
+<div class="modal fade service-modal" id="modalDigitalMkt" tabindex="-1" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"><i class='bx bx-x'></i></button>
+            </div>
+            <div class="modal-body">
+                <div class="modal-icon"><i class='bx bx-line-chart'></i></div>
+                <div class="modal-sub">Service</div>
+                <h5 class="modal-title">Digital Marketing</h5>
+                <p class="modal-description">
+                    We drive measurable growth through data-driven digital marketing strategies. From SEO and
+                    paid media to content marketing and social media, we help you reach the right audience,
+                    engage them effectively, and convert them into loyal customers.
+                </p>
+                <ul class="modal-features">
+                    <li><i class='bx bx-check-circle'></i> SEO &amp; content marketing</li>
+                    <li><i class='bx bx-check-circle'></i> Paid advertising (Google, Meta, etc.)</li>
+                    <li><i class='bx bx-check-circle'></i> Social media management</li>
+                    <li><i class='bx bx-check-circle'></i> Analytics &amp; conversion optimisation</li>
+                </ul>
+                <a href="https://wa.me/{{config('app.phone_1')}}" target="_blank" class="modal-cta">Let's grow your business</a>
             </div>
         </div>
     </div>
 </div>
 <!-- End Features Card -->
+
+<!-- ============================================================
+    PRODUCT SECTION
+    ============================================================ -->
+<section class="product-section">
+    <div class="container">
+
+        <!-- Section Header -->
+        <div class="text-center">
+            <h2 class="section-title">Our Product</h2>
+            <p class="section-subtitle">Empowering everyday financial flexibility</p>
+        </div>
+
+        <!-- TrivPay Card -->
+        <div class="product-card-wrapper">
+            <div class="trivpay-card">
+                <div class="icon">
+                    <img src="https://trivpay.ivavsolutions.com/assets/TrivPaY-wziT8eb0.png" width="100" />
+                </div>
+                <h3>Triv<span>Pay</span></h3>
+                <p class="tagline">Flexible credit for everyday bills.</p>
+                <p class="description">
+                    Pay bills, stay connected, and handle important expenses with a Credit Wallet designed for real life - not financial pressure.
+                </p>
+                <a href="https://trivpay.ivavsolutions.com/" target="_blank" class="btn-trivpay">
+                    <i class='bx bx-right-arrow-alt'></i> Learn More
+                </a>
+            </div>
+        </div>
+
+    </div>
+</section>
 
 <!-- <div class="features-card-section pt-100 pb-70 bg-f8fbfa">
     <div class="container">
